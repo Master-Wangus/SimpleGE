@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="ECS.cpp" />
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="graphics.cpp" />
+    <ClCompile Include="image.cpp" />
+    <ClCompile Include="input.cpp" />
+    <ClCompile Include="textDX.cpp" />
+    <ClCompile Include="textureManager.cpp" />
+    <ClCompile Include="winmain.cpp" />
+    <ClCompile Include="twotowers.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AudioEngine.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="Components.h" />
+    <ClInclude Include="constants.h" />
+    <ClInclude Include="ECS.h" />
+    <ClInclude Include="game.h" />
+    <ClInclude Include="gameError.h" />
+    <ClInclude Include="graphics.h" />
+    <ClInclude Include="image.h" />
+    <ClInclude Include="input.h" />
+    <ClInclude Include="textDX.h" />
+    <ClInclude Include="textureManager.h" />
+    <ClInclude Include="twotowers.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+</Project>
