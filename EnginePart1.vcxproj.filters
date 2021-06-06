@@ -11,6 +11,7 @@
     <ClCompile Include="textureManager.cpp" />
     <ClCompile Include="winmain.cpp" />
     <ClCompile Include="twotowers.cpp" />
+    <ClCompile Include="PhysicsComponent.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AudioEngine.h" />
@@ -26,6 +27,8 @@
     <ClInclude Include="textDX.h" />
     <ClInclude Include="textureManager.h" />
     <ClInclude Include="twotowers.h" />
+    <ClInclude Include="PhysicsComponent.h" />
+    <ClInclude Include="TransformComponent.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram1.cd" />
