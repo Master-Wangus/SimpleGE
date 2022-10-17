@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 gibe credit card details or die
+=======
+gibe ur credit card number and password or i kiw u
+
+i kuew u
+>>>>>>> Stashed changes
